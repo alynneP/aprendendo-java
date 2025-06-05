@@ -6,3 +6,5 @@ O programa declara e inicializa variáveis de diferentes tipos primitivos e de r
 
 Operadores aritméticos e de atribuição:
 Utiliza uma variável double i para demonstrar operações matemáticas básicas (+, -, *, /, %) e operadores de atribuição compostos (+=, -=), também exibindo os resultados no console.
+ # aula2
+Temos Estruturas de decisão (if/else e switch)
